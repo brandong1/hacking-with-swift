@@ -13,3 +13,4 @@ var songs: [String] = ["Shake it off", "You Belong with Me", "Back to December"]
 // I'm tell Swift I want this array to hold any data type.
 var songs: [Any] = ["Shake it off", "You Belong with Me", "Back to December"]
 
+// Figure out pacing for learning.
